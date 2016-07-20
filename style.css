@@ -6,7 +6,7 @@ padding-left: 20px;
 }
 
 body{
-  background-image: url(bgi.JPG);
+  background-image: image(bgi.jpg);
 background-size:cover;
 font-family: "Open Sans Condensed", sans-serif;
   color: #0000CD;
