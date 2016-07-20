@@ -1,0 +1,43 @@
+h1{
+  color:blue;
+border: 5px solid violet;
+background-color: white;
+padding-left: 20px;
+}
+
+body{
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv7CBrFjuJ9lIRV9HhyMck05p-LluaYVMo3xmT9q371weHTHoDuQ);
+background-size:cover;
+font-family: "Open Sans Condensed", sans-serif;
+  color: #0000CD;
+}
+
+div{
+  width: 780px;
+  margin: auto;
+  border: 5px solid #174460;
+  border-radius: 10px;
+  box-shadow: 2px 4px 3px black;
+  background-color: #ffffff;
+  padding: 40px;
+}
+
+.red{
+  color:red;
+}
+
+.pink{
+  color:  #DC143C;
+}
+
+.violet{
+  color: #9400D3;
+}
+
+.date{
+  float: right;
+}
+
+section {
+  clear: both;
+}
