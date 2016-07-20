@@ -41,3 +41,7 @@ div{
 section {
   clear: both;
 }
+.diplome{
+  background-image:url(diplome.jpg)
+  width:60px;
+}
