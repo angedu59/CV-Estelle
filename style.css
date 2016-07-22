@@ -1,43 +1,55 @@
-h1{
-
-
-background-color: white;
-padding-left: 20px;
+h1 {
+    background-color: white;
+    padding-left: 20px;
 }
-
-body{
-  background-image: url(asa.jpg);
-background-size:cover;
-font-family: "Open Sans Condensed", sans-serif;
-
+body {
+    background-image: url(asaa.jpg);
+    background-size: cover;
+    font-family: "Open Sans Condensed", sans-serif;
 }
-
-div{
-  width: 780px;
-  margin: auto;
-  border: 5px solid #174460;
-  border-radius: 10px;
-  box-shadow: 2px 4px 3px black;
-  background-color: #ffffff;
-  padding: 40px;
+div {
+    width: 780px;
+    margin: auto;
+    border: 2px solid #174460;
+    border-radius: 10px;
+    box-shadow: 2px 4px 3px black;
+    background-color: #ffffff;
+    padding: 40px;
 }
-
-.red{
-  
+.osef {
+    margin-left: 5%;
 }
-
-.pink{
- 
+.mrde {
+    margin-right: 80%;
 }
-
-.violet{
-
+.fd {
+    margin-left: 6%;
 }
-
-.date{
-  float: right;
+.left {
+    margin-left: 5%;
 }
-
+.red {
+    margin-bottom: 2%;
+    text-align: center;
+    border: black solid 1px;
+    font-weight: bold;
+}
+.date {
+    float: right;
+    font-weight: bold;
+}
 section {
-  clear: both;
+    clear: both;
+}
+.izi {
+    text-align: left;
+    list-style: none;
+    font-style: italic;
+}
+.pls {
+    margin-right: 90%;
+}
+.nnn   {
+  border: black solid 1px;
+  padding-left: 44%;
 }
