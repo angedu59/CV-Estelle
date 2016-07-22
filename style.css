@@ -1,5 +1,5 @@
 h1{
-  color:blue;
+
 border: 5px solid violet;
 background-color: white;
 padding-left: 20px;
@@ -9,7 +9,7 @@ body{
   background-image: url(bgi.jpg);
 background-size:cover;
 font-family: "Open Sans Condensed", sans-serif;
-  color: #0000CD;
+
 }
 
 div{
@@ -23,15 +23,15 @@ div{
 }
 
 .red{
-  color:red;
+  
 }
 
 .pink{
-  color:  #DC143C;
+ 
 }
 
 .violet{
-  color: #9400D3;
+
 }
 
 .date{
